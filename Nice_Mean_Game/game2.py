@@ -49,8 +49,7 @@ def nice_mean(nice,mean,name):
             nice = (nice + 1)
             stop = False
         if pick == "m":
-            # How rude of you
-            if mean >= 2:
+            if mean >= 2: # How rude of you
                 print("\nThe stranger glares at you \nand you trip them as \nyou walk away...")
             else:
                 print("\nThe stranger glares at you \nand storms off...")
@@ -71,6 +70,49 @@ def score(nice,mean,name):
         lose(nice,mean,name)
     else:        # call nice_mean function passing in the variables so it can use them
         nice_mean(nice,mean,name)
+
+
+def win(nice,mean,name):
+    # Substitute the {} wildcards with our variable values
+    print("\nNice job {}, you win! \nYou've made quite a \nfew friends.".format(name))
+    # call again function and pass in our variables
+    again(nice,mean,name)
+
+
+def lose(nice,mean,name):
+    # Substitute the {} wildcards with our variable values
+    print("\nWell {}, you \"win\". \nYou now have to live under a bridge with \nwith Danny Devito.".format(name))
+    # call again function and pass in our variables
+    again(nice,mean,name)
+
+
+def again(nice,mean,name):
+    stop = True
+    while stop:
+        choice = input("\nDo you want to play again? (y/n):\n>>> ").lower()
+        if choice == "y":
+            stop = False
+            reset(nice,mean,name)
+        if choice == "n":
+            print("\nOh, well nevermind then...")
+            stop = False
+            quit()
+        else:
+            print("\nEnter ( Y ) for 'Yes' or ( N ) for 'No':\n>>> ")
+
+
+def reset(nice,mean,name):
+    nice = 0
+    mean = 0
+    # Keep name when resetting
+    start(nice,mean,name)
+
+
+
+
+
+
+
 
 
 
