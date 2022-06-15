@@ -23,6 +23,7 @@ class Angel(Soul):
 
     def Enter(self):
         msg = "{} approaches the bar".format(self.name)
+        # polymorph altering entry_status
         holy = "\nBright light shines on the guest list..."
         self.entry_status = True
         if self.entry_status:
@@ -37,6 +38,7 @@ class Demon(Soul):
 
     def Enter(self):
         msg = "{} approaches the bar".format(self.name)
+        # polymorph altering entry_status
         cheater = "\nThey give a false name..."
         self.entry_status = True
         if self.entry_status:
