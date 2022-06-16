@@ -15,8 +15,8 @@ import tkinter as tk
 
 
 # import other phonebook modules
-import phonebook_gui
-import phonebook_func
+import student_gui
+import student_func
 
 # Frame is the Tkinter frame class our class will inherit from
 class ParentWindow(Frame):
@@ -28,15 +28,15 @@ class ParentWindow(Frame):
         self.master.minsize(500,300) #(ht,wh)
         self.master.maxsize(500,300)
         # center window centers app on user's screen
-        # phonebook_func.center_window(self,500,300)
-        self.master.title("The Tkinter Phonebook Demo")
+        student_func.center_window(self,500,300)
+        self.master.title("Student Tracker")
         self.master.configure(bg="#F0F0F0")
         # built in catch if users clicks corner 'x' on window
-        self.master.protocol("WM_DELETE_WINDOW", lambda: phonebook_func.ask_quit(self))
+        self.master.protocol("WM_DELETE_WINDOW", lambda: student_func.ask_quit(self))
         # arg = self.master
 
         # load in the gui widgets from seperate module
-        phonebook_gui.load_gui(self)
+        student_gui.load_gui(self)
 
 
 
