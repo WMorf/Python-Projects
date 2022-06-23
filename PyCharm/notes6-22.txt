@@ -1,0 +1,565 @@
+Microsoft Windows [Version 10.0.19044.1766]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\clerk>cd \
+
+C:\>mkdir PyProjects
+
+C:\>dir
+ Volume in drive C has no label.
+ Volume Serial Number is D469-235E
+
+ Directory of C:\
+
+04/15/2022  11:35 PM    <DIR>          $WINDOWS.~BT
+04/18/2022  06:55 PM    <DIR>          .runite_rs
+06/11/2022  11:16 AM    <DIR>          A
+07/27/2021  05:22 PM    <DIR>          Baldies For Windows 95
+04/20/2021  10:46 PM    <DIR>          Byond
+04/26/2022  10:13 PM    <DIR>          Crash
+11/17/2021  11:05 AM    <DIR>          Creep Crew Balooza
+06/16/2022  12:01 AM    <DIR>          DosGames
+04/16/2022  12:57 AM    <DIR>          ESD
+01/12/2022  05:33 PM    <DIR>          MegaStomper
+12/07/2019  02:14 AM    <DIR>          PerfLogs
+06/11/2022  11:36 PM    <DIR>          Program Files
+06/09/2022  12:08 AM    <DIR>          Program Files (x86)
+05/20/2022  12:22 AM    <DIR>          Project Labrat
+06/22/2022  11:29 AM    <DIR>          PyProjects
+08/26/2021  06:03 AM    <DIR>          Safer-Networking Ltd
+03/07/2022  02:24 AM    <DIR>          ShadowPlay
+05/30/2022  11:18 PM    <DIR>          SQL2019
+04/20/2021  10:45 PM    <DIR>          Users
+06/16/2022  03:38 AM    <DIR>          Windows
+05/21/2022  11:18 PM    <DIR>          xampp
+05/12/2022  08:54 PM    <DIR>          XboxGames
+               0 File(s)              0 bytes
+              22 Dir(s)  53,595,140,096 bytes free
+
+C:\>cd PyProjects
+
+C:\PyProjects>dir
+ Volume in drive C has no label.
+ Volume Serial Number is D469-235E
+
+ Directory of C:\PyProjects
+
+06/22/2022  11:29 AM    <DIR>          .
+06/22/2022  11:29 AM    <DIR>          ..
+               0 File(s)              0 bytes
+               2 Dir(s)  53,596,422,144 bytes free
+
+C:\PyProjects>pip
+
+Usage:
+  pip <command> [options]
+
+Commands:
+  install                     Install packages.
+  download                    Download packages.
+  uninstall                   Uninstall packages.
+  freeze                      Output installed packages in requirements format.
+  list                        List installed packages.
+  show                        Show information about installed packages.
+  check                       Verify installed packages have compatible dependencies.
+  config                      Manage local and global configuration.
+  search                      Search PyPI for packages.
+  cache                       Inspect and manage pip's wheel cache.
+  index                       Inspect information available from package indexes.
+  wheel                       Build wheels from your requirements.
+  hash                        Compute hashes of package archives.
+  completion                  A helper command used for command completion.
+  debug                       Show information useful for debugging.
+  help                        Show help for commands.
+
+General Options:
+  -h, --help                  Show help.
+  --debug                     Let unhandled exceptions propagate outside the main subroutine, instead of logging
+                              them to stderr.
+  --isolated                  Run pip in an isolated mode, ignoring environment variables and user configuration.
+  --require-virtualenv        Allow pip to only run in a virtual environment; exit with an error otherwise.
+  -v, --verbose               Give more output. Option is additive, and can be used up to 3 times.
+  -V, --version               Show version and exit.
+  -q, --quiet                 Give less output. Option is additive, and can be used up to 3 times (corresponding to
+                              WARNING, ERROR, and CRITICAL logging levels).
+  --log <path>                Path to a verbose appending log.
+  --no-input                  Disable prompting for input.
+  --proxy <proxy>             Specify a proxy in the form [user:passwd@]proxy.server:port.
+  --retries <retries>         Maximum number of retries each connection should attempt (default 5 times).
+  --timeout <sec>             Set the socket timeout (default 15 seconds).
+  --exists-action <action>    Default action when a path already exists: (s)witch, (i)gnore, (w)ipe, (b)ackup,
+                              (a)bort.
+  --trusted-host <hostname>   Mark this host or host:port pair as trusted, even though it does not have valid or
+                              any HTTPS.
+  --cert <path>               Path to PEM-encoded CA certificate bundle. If provided, overrides the default. See
+                              'SSL Certificate Verification' in pip documentation for more information.
+  --client-cert <path>        Path to SSL client certificate, a single file containing the private key and the
+                              certificate in PEM format.
+  --cache-dir <dir>           Store the cache data in <dir>.
+  --no-cache-dir              Disable the cache.
+  --disable-pip-version-check
+                              Don't periodically check PyPI to determine whether a new version of pip is available
+                              for download. Implied with --no-index.
+  --no-color                  Suppress colored output.
+  --no-python-version-warning
+                              Silence deprecation warnings for upcoming unsupported Pythons.
+  --use-feature <feature>     Enable new functionality, that may be backward incompatible.
+  --use-deprecated <feature>  Enable deprecated functionality, that will be removed in the future.
+
+C:\PyProjects>list
+'list' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\PyProjects>list
+'list' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\PyProjects>pip list
+Package      Version
+------------ -------
+distlib      0.3.4
+filelock     3.7.1
+numpy        1.22.4
+pip          22.0.4
+platformdirs 2.5.2
+pytz         2022.1
+setuptools   58.1.0
+six          1.16.0
+virtualenv   20.14.1
+WARNING: You are using pip version 22.0.4; however, version 22.1.2 is available.
+You should consider upgrading via the 'C:\Users\clerk\AppData\Local\Programs\Python\Python310\python.exe -m pip install --upgrade pip' command.
+
+C:\PyProjects>'C:\Users\clerk\AppData\Local\Programs\Python\Python310\python.exe -m pip install --upgrade pip
+The filename, directory name, or volume label syntax is incorrect.
+
+C:\PyProjects>'C:\Users\clerk\AppData\Local\Programs\Python\Python310\python.exe -m pip install --upgrade pip'
+The filename, directory name, or volume label syntax is incorrect.
+
+C:\PyProjects>cd \
+
+C:\>'C:\Users\clerk\AppData\Local\Programs\Python\Python310\python.exe -m pip install --upgrade pip'
+The filename, directory name, or volume label syntax is incorrect.
+
+C:\>'C:\Users\clerk\AppData\Local\Programs\Python\Python310\python.exe -m pip install --upgrade pip'
+The filename, directory name, or volume label syntax is incorrect.
+
+C:\>cd \
+
+C:\>cd PyProjects
+
+C:\PyProjects>virtalenv
+'virtalenv' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\PyProjects>virtualenv
+usage: virtualenv [--version] [--with-traceback] [-v | -q] [--read-only-app-data] [--app-data APP_DATA] [--reset-app-data] [--upgrade-embed-wheels] [--discovery {builtin}] [-p py] [--try-first-with py_exe]
+                  [--creator {builtin,cpython3-win,venv}] [--seeder {app-data,pip}] [--no-seed] [--activators comma_sep_list] [--clear] [--no-vcs-ignore] [--system-site-packages] [--copies] [--no-download | --download]
+                  [--extra-search-dir d [d ...]] [--pip version] [--setuptools version] [--wheel version] [--no-pip] [--no-setuptools] [--no-wheel] [--no-periodic-update] [--symlink-app-data] [--prompt prompt] [-h]
+                  dest
+virtualenv: error: the following arguments are required: dest
+SystemExit: 2
+
+C:\PyProjects>virtualenv project 1
+usage: virtualenv [--version] [--with-traceback] [-v | -q] [--read-only-app-data] [--app-data APP_DATA] [--reset-app-data] [--upgrade-embed-wheels] [--discovery {builtin}] [-p py] [--try-first-with py_exe]
+                  [--creator {builtin,cpython3-win,venv}] [--seeder {app-data,pip}] [--no-seed] [--activators comma_sep_list] [--clear] [--no-vcs-ignore] [--system-site-packages] [--copies] [--no-download | --download]
+                  [--extra-search-dir d [d ...]] [--pip version] [--setuptools version] [--wheel version] [--no-pip] [--no-setuptools] [--no-wheel] [--no-periodic-update] [--symlink-app-data] [--prompt prompt] [-h]
+                  dest
+virtualenv: error: unrecognized arguments: 1
+SystemExit: 2
+
+C:\PyProjects>virtualenv project1
+created virtual environment CPython3.10.4.final.0-64 in 2177ms
+  creator CPython3Windows(dest=C:\PyProjects\project1, clear=False, no_vcs_ignore=False, global=False)
+  seeder FromAppData(download=False, pip=bundle, setuptools=bundle, wheel=bundle, via=copy, app_data_dir=C:\Users\clerk\AppData\Local\pypa\virtualenv)
+    added seed packages: pip==22.0.4, setuptools==62.1.0, wheel==0.37.1
+  activators BashActivator,BatchActivator,FishActivator,NushellActivator,PowerShellActivator,PythonActivator
+
+C:\PyProjects>dir
+ Volume in drive C has no label.
+ Volume Serial Number is D469-235E
+
+ Directory of C:\PyProjects
+
+06/22/2022  11:32 AM    <DIR>          .
+06/22/2022  11:32 AM    <DIR>          ..
+06/22/2022  11:32 AM    <DIR>          project1
+               0 File(s)              0 bytes
+               3 Dir(s)  53,541,879,808 bytes free
+
+C:\PyProjects>cd projects1
+The system cannot find the path specified.
+
+C:\PyProjects>cd project1
+
+C:\PyProjects\project1>dir
+ Volume in drive C has no label.
+ Volume Serial Number is D469-235E
+
+ Directory of C:\PyProjects\project1
+
+06/22/2022  11:32 AM    <DIR>          .
+06/22/2022  11:32 AM    <DIR>          ..
+06/22/2022  11:32 AM                42 .gitignore
+06/22/2022  11:32 AM    <DIR>          Lib
+06/22/2022  11:32 AM               410 pyvenv.cfg
+06/22/2022  11:32 AM    <DIR>          Scripts
+               2 File(s)            452 bytes
+               4 Dir(s)  53,538,877,440 bytes free
+
+C:\PyProjects\project1>cd scripts
+
+C:\PyProjects\project1\Scripts>cd projects1
+The system cannot find the path specified.
+
+C:\PyProjects\project1\Scripts>cd project1
+The system cannot find the path specified.
+
+C:\PyProjects\project1\Scripts>dir
+ Volume in drive C has no label.
+ Volume Serial Number is D469-235E
+
+ Directory of C:\PyProjects\project1\Scripts
+
+06/22/2022  11:32 AM    <DIR>          .
+06/22/2022  11:32 AM    <DIR>          ..
+06/22/2022  11:32 AM             2,145 activate
+06/22/2022  11:32 AM               985 activate.bat
+06/22/2022  11:32 AM             3,022 activate.fish
+06/22/2022  11:32 AM             2,563 activate.nu
+06/22/2022  11:32 AM             1,758 activate.ps1
+06/22/2022  11:32 AM             1,193 activate_this.py
+06/22/2022  11:32 AM               510 deactivate.bat
+06/22/2022  11:32 AM               682 deactivate.nu
+06/22/2022  11:32 AM           106,864 pip-3.10.exe
+06/22/2022  11:32 AM           106,864 pip.exe
+06/22/2022  11:32 AM           106,864 pip3.10.exe
+06/22/2022  11:32 AM           106,864 pip3.exe
+06/22/2022  11:32 AM                24 pydoc.bat
+06/22/2022  11:32 AM           263,120 python.exe
+06/22/2022  11:32 AM           251,856 pythonw.exe
+06/22/2022  11:32 AM           106,851 wheel-3.10.exe
+06/22/2022  11:32 AM           106,851 wheel.exe
+06/22/2022  11:32 AM           106,851 wheel3.10.exe
+06/22/2022  11:32 AM           106,851 wheel3.exe
+              19 File(s)      1,382,718 bytes
+               2 Dir(s)  53,531,545,600 bytes free
+
+C:\PyProjects\project1\Scripts>activate
+
+(project1) C:\PyProjects\project1\Scripts>pip list
+Package    Version
+---------- -------
+pip        22.0.4
+setuptools 62.1.0
+wheel      0.37.1
+WARNING: You are using pip version 22.0.4; however, version 22.1.2 is available.
+You should consider upgrading via the 'C:\PyProjects\project1\Scripts\python.exe -m pip install --upgrade pip' command.
+
+(project1) C:\PyProjects\project1\Scripts>pip install numpy
+Collecting numpy
+  Using cached numpy-1.22.4-cp310-cp310-win_amd64.whl (14.7 MB)
+Installing collected packages: numpy
+Successfully installed numpy-1.22.4
+WARNING: You are using pip version 22.0.4; however, version 22.1.2 is available.
+You should consider upgrading via the 'C:\PyProjects\project1\Scripts\python.exe -m pip install --upgrade pip' command.
+
+(project1) C:\PyProjects\project1\Scripts>pip install pyzt
+Collecting pyzt
+  Downloading pyzt-1.0.1-py3-none-any.whl (2.9 kB)
+Collecting termcolor
+  Downloading termcolor-1.1.0.tar.gz (3.9 kB)
+  Preparing metadata (setup.py) ... done
+Collecting cython
+  Downloading Cython-0.29.30-py2.py3-none-any.whl (985 kB)
+     ---------------------------------------- 985.1/985.1 KB 10.4 MB/s eta 0:00:00
+Collecting azt
+  Downloading azt-0.0.7-py3-none-any.whl (9.8 kB)
+Collecting click
+  Downloading click-8.1.3-py3-none-any.whl (96 kB)
+     ---------------------------------------- 96.6/96.6 KB 5.8 MB/s eta 0:00:00
+Collecting pyfiglet
+  Downloading pyfiglet-0.8.post1-py2.py3-none-any.whl (865 kB)
+     ---------------------------------------- 865.8/865.8 KB 11.0 MB/s eta 0:00:00
+Collecting colorama
+  Downloading colorama-0.4.5-py2.py3-none-any.whl (16 kB)
+Building wheels for collected packages: termcolor
+  Building wheel for termcolor (setup.py) ... done
+  Created wheel for termcolor: filename=termcolor-1.1.0-py3-none-any.whl size=4848 sha256=9ca2fe1752306b4f2c218356aee4f1e56c90ed1761bc62afc66a1da0109eaf71
+  Stored in directory: c:\users\clerk\appdata\local\pip\cache\wheels\a1\49\46\1b13a65d8da11238af9616b00fdde6d45b0f95d9291bac8452
+Successfully built termcolor
+Installing collected packages: termcolor, pyfiglet, cython, colorama, click, azt, pyzt
+Successfully installed azt-0.0.7 click-8.1.3 colorama-0.4.5 cython-0.29.30 pyfiglet-0.8.post1 pyzt-1.0.1 termcolor-1.1.0
+WARNING: You are using pip version 22.0.4; however, version 22.1.2 is available.
+You should consider upgrading via the 'C:\PyProjects\project1\Scripts\python.exe -m pip install --upgrade pip' command.
+
+(project1) C:\PyProjects\project1\Scripts>pip install Flask
+Collecting Flask
+  Downloading Flask-2.1.2-py3-none-any.whl (95 kB)
+     ---------------------------------------- 95.2/95.2 KB 2.7 MB/s eta 0:00:00
+Collecting Werkzeug>=2.0
+  Downloading Werkzeug-2.1.2-py3-none-any.whl (224 kB)
+     ---------------------------------------- 224.9/224.9 KB 13.4 MB/s eta 0:00:00
+Collecting Jinja2>=3.0
+  Downloading Jinja2-3.1.2-py3-none-any.whl (133 kB)
+     ---------------------------------------- 133.1/133.1 KB 7.7 MB/s eta 0:00:00
+Requirement already satisfied: click>=8.0 in c:\pyprojects\project1\lib\site-packages (from Flask) (8.1.3)
+Collecting itsdangerous>=2.0
+  Downloading itsdangerous-2.1.2-py3-none-any.whl (15 kB)
+Requirement already satisfied: colorama in c:\pyprojects\project1\lib\site-packages (from click>=8.0->Flask) (0.4.5)
+Collecting MarkupSafe>=2.0
+  Downloading MarkupSafe-2.1.1-cp310-cp310-win_amd64.whl (17 kB)
+Installing collected packages: Werkzeug, MarkupSafe, itsdangerous, Jinja2, Flask
+Successfully installed Flask-2.1.2 Jinja2-3.1.2 MarkupSafe-2.1.1 Werkzeug-2.1.2 itsdangerous-2.1.2
+WARNING: You are using pip version 22.0.4; however, version 22.1.2 is available.
+You should consider upgrading via the 'C:\PyProjects\project1\Scripts\python.exe -m pip install --upgrade pip' command.
+
+(project1) C:\PyProjects\project1\Scripts>pip install psutil
+Collecting psutil
+  Downloading psutil-5.9.1-cp310-cp310-win_amd64.whl (245 kB)
+     ---------------------------------------- 245.8/245.8 KB 5.0 MB/s eta 0:00:00
+Installing collected packages: psutil
+Successfully installed psutil-5.9.1
+WARNING: You are using pip version 22.0.4; however, version 22.1.2 is available.
+You should consider upgrading via the 'C:\PyProjects\project1\Scripts\python.exe -m pip install --upgrade pip' command.
+
+(project1) C:\PyProjects\project1\Scripts>pip list
+Package      Version
+------------ ---------
+azt          0.0.7
+click        8.1.3
+colorama     0.4.5
+Cython       0.29.30
+Flask        2.1.2
+itsdangerous 2.1.2
+Jinja2       3.1.2
+MarkupSafe   2.1.1
+numpy        1.22.4
+pip          22.0.4
+psutil       5.9.1
+pyfiglet     0.8.post1
+pyzt         1.0.1
+setuptools   62.1.0
+termcolor    1.1.0
+Werkzeug     2.1.2
+wheel        0.37.1
+WARNING: You are using pip version 22.0.4; however, version 22.1.2 is available.
+You should consider upgrading via the 'C:\PyProjects\project1\Scripts\python.exe -m pip install --upgrade pip' command.
+
+(project1) C:\PyProjects\project1\Scripts>python -m idlelib
+
+(project1) C:\PyProjects\project1\Scripts>pip install psutil
+Requirement already satisfied: psutil in c:\pyprojects\project1\lib\site-packages (5.9.1)
+WARNING: You are using pip version 22.0.4; however, version 22.1.2 is available.
+You should consider upgrading via the 'C:\PyProjects\project1\Scripts\python.exe -m pip install --upgrade pip' command.
+
+(project1) C:\PyProjects\project1\Scripts>deactivate
+C:\PyProjects\project1\Scripts>cd ..
+
+C:\PyProjects\project1>cd ..
+
+C:\PyProjects>rmdir /s project1
+project1, Are you sure (Y/N)? Y
+
+C:\PyProjects>dir
+ Volume in drive C has no label.
+ Volume Serial Number is D469-235E
+
+ Directory of C:\PyProjects
+
+06/22/2022  11:51 AM    <DIR>          .
+06/22/2022  11:51 AM    <DIR>          ..
+               0 File(s)              0 bytes
+               2 Dir(s)  53,539,282,944 bytes free
+
+C:\PyProjects>mkdir My Virtual Enviorments
+
+C:\PyProjects>dir
+ Volume in drive C has no label.
+ Volume Serial Number is D469-235E
+
+ Directory of C:\PyProjects
+
+06/22/2022  10:37 PM    <DIR>          .
+06/22/2022  10:37 PM    <DIR>          ..
+06/22/2022  10:37 PM    <DIR>          Enviorments
+06/22/2022  10:37 PM    <DIR>          My
+06/22/2022  10:37 PM    <DIR>          Virtual
+               0 File(s)              0 bytes
+               5 Dir(s)  53,151,625,216 bytes free
+
+C:\PyProjects>mkdir My_Virtual_Enviorments
+
+C:\PyProjects>virtualenv testEnv1
+created virtual environment CPython3.10.4.final.0-64 in 1268ms
+  creator CPython3Windows(dest=C:\PyProjects\testEnv1, clear=False, no_vcs_ignore=False, global=False)
+  seeder FromAppData(download=False, pip=bundle, setuptools=bundle, wheel=bundle, via=copy, app_data_dir=C:\Users\clerk\AppData\Local\pypa\virtualenv)
+    added seed packages: pip==22.1.2, setuptools==62.3.4, wheel==0.37.1
+  activators BashActivator,BatchActivator,FishActivator,NushellActivator,PowerShellActivator,PythonActivator
+
+C:\PyProjects>dir
+ Volume in drive C has no label.
+ Volume Serial Number is D469-235E
+
+ Directory of C:\PyProjects
+
+06/22/2022  11:02 PM    <DIR>          .
+06/22/2022  11:02 PM    <DIR>          ..
+06/22/2022  10:37 PM    <DIR>          My_Virtual_Enviorments
+06/22/2022  11:02 PM    <DIR>          testEnv1
+               0 File(s)              0 bytes
+               4 Dir(s)  53,129,908,224 bytes free
+
+C:\PyProjects>cd testEnv1
+
+C:\PyProjects\testEnv1>activate
+'activate' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\PyProjects\testEnv1>cd scripts
+
+C:\PyProjects\testEnv1\Scripts>activate
+
+(testEnv1) C:\PyProjects\testEnv1\Scripts>cd .
+
+(testEnv1) C:\PyProjects\testEnv1\Scripts>cd ..
+
+(testEnv1) C:\PyProjects\testEnv1>deactivate
+C:\PyProjects\testEnv1>django-admin startproject testEnv1
+'django-admin' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\PyProjects\testEnv1>cd scripts
+
+C:\PyProjects\testEnv1\Scripts>activate
+
+(testEnv1) C:\PyProjects\testEnv1\Scripts>django-admin startproject testEnv1
+'django-admin' is not recognized as an internal or external command,
+operable program or batch file.
+
+(testEnv1) C:\PyProjects\testEnv1\Scripts>startproject demo_project
+'startproject' is not recognized as an internal or external command,
+operable program or batch file.
+
+(testEnv1) C:\PyProjects\testEnv1\Scripts>cd ..
+
+(testEnv1) C:\PyProjects\testEnv1>deactivate
+C:\PyProjects\testEnv1>python -m pip install Django
+Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+
+C:\PyProjects\testEnv1> -m pip install Django
+'-m' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\PyProjects\testEnv1>pip install Django
+Collecting Django
+  Downloading Django-4.0.5-py3-none-any.whl (8.0 MB)
+     ---------------------------------------- 8.0/8.0 MB 12.2 MB/s eta 0:00:00
+Collecting sqlparse>=0.2.2
+  Downloading sqlparse-0.4.2-py3-none-any.whl (42 kB)
+     ---------------------------------------- 42.3/42.3 KB 2.1 MB/s eta 0:00:00
+Collecting asgiref<4,>=3.4.1
+  Downloading asgiref-3.5.2-py3-none-any.whl (22 kB)
+Collecting tzdata
+  Downloading tzdata-2022.1-py2.py3-none-any.whl (339 kB)
+     ---------------------------------------- 339.5/339.5 KB 10.3 MB/s eta 0:00:00
+Installing collected packages: tzdata, sqlparse, asgiref, Django
+Successfully installed Django-4.0.5 asgiref-3.5.2 sqlparse-0.4.2 tzdata-2022.1
+WARNING: You are using pip version 22.0.4; however, version 22.1.2 is available.
+You should consider upgrading via the 'C:\Users\clerk\AppData\Local\Programs\Python\Python310\python.exe -m pip install --upgrade pip' command.
+
+C:\PyProjects\testEnv1>cd scripts
+
+C:\PyProjects\testEnv1\Scripts>activate
+
+(testEnv1) C:\PyProjects\testEnv1\Scripts>django-admin startproject testEnv1
+
+(testEnv1) C:\PyProjects\testEnv1\Scripts>cd ..
+
+(testEnv1) C:\PyProjects\testEnv1>django-admin startproject testEnv1
+
+(testEnv1) C:\PyProjects\testEnv1>django-admin startproject demo1
+
+(testEnv1) C:\PyProjects\testEnv1>cd ..
+
+(testEnv1) C:\PyProjects>django-admin startproject main1
+
+(testEnv1) C:\PyProjects>cd main1
+
+(testEnv1) C:\PyProjects\main1>dir
+ Volume in drive C has no label.
+ Volume Serial Number is D469-235E
+
+ Directory of C:\PyProjects\main1
+
+06/22/2022  11:12 PM    <DIR>          .
+06/22/2022  11:12 PM    <DIR>          ..
+06/22/2022  11:12 PM    <DIR>          main1
+06/22/2022  11:12 PM               683 manage.py
+               1 File(s)            683 bytes
+               3 Dir(s)  53,078,413,312 bytes free
+
+(testEnv1) C:\PyProjects\main1>python manage.py startapp main_app
+Traceback (most recent call last):
+  File "C:\PyProjects\main1\manage.py", line 11, in main
+    from django.core.management import execute_from_command_line
+ModuleNotFoundError: No module named 'django'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\PyProjects\main1\manage.py", line 22, in <module>
+    main()
+  File "C:\PyProjects\main1\manage.py", line 13, in main
+    raise ImportError(
+ImportError: Couldn't import Django. Are you sure it's installed and available on your PYTHONPATH environment variable? Did you forget to activate a virtual environment?
+
+(testEnv1) C:\PyProjects\main1>python manage.py startapp main_app
+Traceback (most recent call last):
+  File "C:\PyProjects\main1\manage.py", line 11, in main
+    from django.core.management import execute_from_command_line
+ModuleNotFoundError: No module named 'django'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\PyProjects\main1\manage.py", line 22, in <module>
+    main()
+  File "C:\PyProjects\main1\manage.py", line 13, in main
+    raise ImportError(
+ImportError: Couldn't import Django. Are you sure it's installed and available on your PYTHONPATH environment variable? Did you forget to activate a virtual environment?
+
+(testEnv1) C:\PyProjects\main1>pip install django
+Collecting django
+  Using cached Django-4.0.5-py3-none-any.whl (8.0 MB)
+Collecting tzdata
+  Using cached tzdata-2022.1-py2.py3-none-any.whl (339 kB)
+Collecting asgiref<4,>=3.4.1
+  Using cached asgiref-3.5.2-py3-none-any.whl (22 kB)
+Collecting sqlparse>=0.2.2
+  Using cached sqlparse-0.4.2-py3-none-any.whl (42 kB)
+Installing collected packages: tzdata, sqlparse, asgiref, django
+Successfully installed asgiref-3.5.2 django-4.0.5 sqlparse-0.4.2 tzdata-2022.1
+
+(testEnv1) C:\PyProjects\main1>python manage.py startapp main_app
+
+(testEnv1) C:\PyProjects\main1>cd main_app
+
+(testEnv1) C:\PyProjects\main1\main_app>dir
+ Volume in drive C has no label.
+ Volume Serial Number is D469-235E
+
+ Directory of C:\PyProjects\main1\main_app
+
+06/22/2022  11:16 PM    <DIR>          .
+06/22/2022  11:16 PM    <DIR>          ..
+06/22/2022  11:16 PM                66 admin.py
+06/22/2022  11:16 PM               153 apps.py
+06/22/2022  11:16 PM    <DIR>          migrations
+06/22/2022  11:16 PM                60 models.py
+06/22/2022  11:16 PM                63 tests.py
+06/22/2022  11:16 PM                66 views.py
+06/22/2022  11:16 PM                 0 __init__.py
+               6 File(s)            408 bytes
+               3 Dir(s)  51,508,912,128 bytes free
+
+(testEnv1) C:\PyProjects\main1\main_app>
