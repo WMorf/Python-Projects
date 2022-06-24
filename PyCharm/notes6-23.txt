@@ -1,0 +1,1643 @@
+Microsoft Windows [Version 10.0.19044.1766]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\clerk>dir
+ Volume in drive C has no label.
+ Volume Serial Number is D469-235E
+
+ Directory of C:\Users\clerk
+
+05/15/2022  03:15 AM    <DIR>          .
+05/15/2022  03:15 AM    <DIR>          ..
+04/27/2022  09:00 PM             2,612 .bash_history
+04/06/2021  04:44 PM    <DIR>          .dotnet
+04/27/2022  11:19 AM               179 .gitconfig
+04/21/2022  11:01 PM    <DIR>          .idlerc
+04/27/2022  10:55 AM                20 .lesshst
+04/06/2021  04:39 PM    <DIR>          .omnisharp
+08/01/2021  11:01 PM    <DIR>          .Origin
+07/07/2021  06:18 PM    <DIR>          .prefs
+08/01/2021  11:02 PM    <DIR>          .QtWebEngineProcess
+04/18/2022  04:31 AM    <DIR>          .runite_rs
+05/12/2021  02:43 AM    <DIR>          .thumbnails
+03/30/2021  10:55 PM    <DIR>          .vscode
+05/04/2022  12:38 PM    <DIR>          3D Objects
+05/04/2022  12:45 PM    <DIR>          ansel
+03/29/2021  10:27 PM    <DIR>          AppData
+03/29/2021  10:28 PM    <DIR>          Contacts
+11/16/2021  06:26 PM    <DIR>          curseforge
+06/22/2022  10:09 PM    <DIR>          Desktop
+05/31/2022  04:55 PM    <DIR>          Documents
+06/16/2022  04:18 PM    <DIR>          Downloads
+03/29/2021  10:28 PM    <DIR>          Favorites
+04/30/2022  11:06 AM                34 jagex_runescape_preferences.dat
+03/29/2021  10:28 PM    <DIR>          Links
+01/05/2022  12:02 AM    <DIR>          Music
+09/08/2021  10:11 PM    <DIR>          OneDrive
+06/14/2022  11:48 AM    <DIR>          Pictures
+01/29/2022  11:36 PM       116,695,352 PlayStationNow-11.8.0.exe
+10/28/2021  01:39 AM    <DIR>          Saved Games
+03/29/2021  10:30 PM    <DIR>          Searches
+04/02/2022  01:11 AM    <DIR>          Sinking Simulator
+03/30/2021  05:15 PM    <DIR>          source
+06/21/2022  12:00 PM    <DIR>          Videos
+06/22/2022  12:10 AM    <DIR>          Zomboid
+               5 File(s)    116,698,197 bytes
+              30 Dir(s)  51,536,465,920 bytes free
+
+C:\Users\clerk>cd documents
+
+C:\Users\clerk\Documents>dir
+ Volume in drive C has no label.
+ Volume Serial Number is D469-235E
+
+ Directory of C:\Users\clerk\Documents
+
+05/31/2022  04:55 PM    <DIR>          .
+05/31/2022  04:55 PM    <DIR>          ..
+03/30/2021  01:21 PM           548,965 1446697738_land_of_eternal_autumn_by_viaestelar-d3idi28.jpg
+09/20/2021  11:33 PM           722,301 1549589941_apogee2.png
+09/12/2021  05:10 AM            46,555 1626363124_GAZL3643.JPG
+05/07/2022  11:46 AM           244,835 2021_TaxReturn (1).pdf
+04/28/2022  09:59 AM           244,835 2021_TaxReturn.pdf
+07/31/2021  08:46 PM    <DIR>          ArmA
+03/10/2022  07:26 PM    <DIR>          ArmA 2
+04/13/2021  04:10 PM    <DIR>          Arma 3
+08/26/2021  05:49 AM    <DIR>          Baldur's Gate - Enhanced Edition
+11/27/2021  03:21 PM    <DIR>          BeamNG.drive
+04/20/2021  04:04 AM    <DIR>          Bethesda
+04/04/2022  11:05 PM    <DIR>          BioWare
+04/27/2022  11:48 PM    <DIR>          Black Desert
+08/08/2021  02:14 AM    <DIR>          BMS
+06/21/2022  08:44 PM    <DIR>          BYOND
+03/30/2022  12:53 AM                44 CD.txt
+04/11/2022  10:27 AM           223,566 Checklist Agreement.pdf
+07/02/2021  11:51 PM    <DIR>          CnCRemastered
+02/27/2022  09:39 PM         4,495,663 community_image_1405162136.jpg
+04/27/2022  10:51 AM    <DIR>          developers
+09/25/2021  02:10 AM    <DIR>          Diablo II
+02/24/2021  01:17 AM           134,084 Direct Deposit (2).pdf
+02/24/2021  12:28 AM            18,564 Direct Deposit.pdf
+03/25/2022  01:18 AM    <DIR>          Dungeon Siege
+04/15/2021  10:53 PM    <DIR>          Eek
+08/03/2021  02:11 AM    <DIR>          Electronic Arts
+05/07/2021  01:04 PM           364,954 Eligibility_Results_01_16_2020.pdf
+05/22/2021  05:08 AM    <DIR>          Empire Interactive
+05/10/2021  12:27 AM    <DIR>          Endless Space 2
+02/01/2022  02:20 AM    <DIR>          EufloriaHD
+03/16/2022  02:06 AM    <DIR>          EVE
+06/06/2021  03:52 AM    <DIR>          Fantasy Wars
+04/17/2022  09:28 AM    <DIR>          FeedbackHub
+04/20/2022  12:38 PM                16 Folader_A
+04/20/2022  12:42 PM    <DIR>          Folder_A
+05/16/2021  01:14 AM    <DIR>          Gaslamp Games
+06/10/2022  10:39 PM    <DIR>          GitHub
+11/16/2021  06:19 PM    <DIR>          GTA Vice City User Files
+11/18/2021  05:44 AM    <DIR>          GTA3 User Files
+06/07/2021  08:22 PM    <DIR>          Guncraft
+04/12/2021  07:43 PM    <DIR>          Guts and Glory Screenshots
+06/02/2022  12:56 AM               325 henny.txt
+12/22/2021  03:01 AM    <DIR>          Kingdoms
+06/08/2021  07:17 PM    <DIR>          Klei
+03/15/2022  08:30 PM    <DIR>          KUF2 Crusader
+09/26/2021  03:50 AM    <DIR>          KUF2 Heroes
+05/20/2022  12:02 AM        13,364,570 learnunityforandroidgamedevelopment.pdf
+04/26/2022  03:06 PM           318,975 Leaving The Company FAQ OR.pdf
+03/11/2022  03:33 PM               492 Leviathan.txt
+02/15/2022  10:17 PM            32,864 log.txt
+05/06/2022  12:27 AM         1,475,123 MakingofDaggerfall.pdf
+12/27/2021  01:49 AM    <DIR>          Manhunt User Files
+04/24/2021  12:08 AM    <DIR>          Mount and Blade II Bannerlord
+04/21/2021  02:42 AM    <DIR>          Mount&Blade Warband
+03/10/2022  03:14 AM    <DIR>          Mount&Blade Warband Savegames
+01/03/2022  05:43 AM    <DIR>          My Cheat Tables
+05/23/2022  05:37 PM    <DIR>          My Games
+02/03/2022  06:45 PM    <DIR>          My Kindle Content
+04/27/2022  10:33 AM    <DIR>          myRepository
+02/22/2022  11:11 PM    <DIR>          NBGI
+02/22/2021  03:48 PM            71,029 New Employee Checklist SOP (1).pdf
+04/28/2022  10:09 AM            64,622 Oregon Employment Department Confirmation.pdf
+02/04/2021  02:56 PM            32,759 Oregon Recreational Marijuana Licensing System _.pdf
+04/09/2022  06:35 PM    <DIR>          Paradox Interactive
+12/06/2021  08:38 AM    <DIR>          paystubs
+04/11/2022  10:29 AM           109,821 Policies & Materials Agreement.pdf
+01/10/2022  09:48 PM    <DIR>          PPSSPP
+11/05/2021  02:23 AM    <DIR>          Promote Application Data
+12/14/2021  02:54 AM    <DIR>          Renegade
+02/01/2022  05:06 PM               404 rISING STORM.txt
+07/05/2021  06:05 PM    <DIR>          Rockstar Games
+12/06/2021  08:40 AM    <DIR>          Rules
+11/05/2021  02:30 AM       669,720,576 SargeZTwo.iso
+01/07/2022  04:18 AM    <DIR>          SavedGames
+11/15/2021  06:10 AM    <DIR>          Space Colony
+06/01/2021  06:09 PM    <DIR>          SpaceRangersHD
+06/03/2022  06:54 PM    <DIR>          SQL Server Management Studio
+01/03/2022  05:43 AM    <DIR>          Square Enix
+08/18/2021  12:13 AM    <DIR>          StarCraft II
+05/16/2022  05:32 PM    <DIR>          Streets of Rogue
+05/01/2021  10:08 PM    <DIR>          streumon
+06/01/2021  01:31 PM    <DIR>          Stronghold 2
+05/10/2021  07:55 PM    <DIR>          Stronghold Crusader
+11/28/2021  02:07 AM    <DIR>          Teardown
+09/21/2021  03:50 PM    <DIR>          The Surge 2
+11/27/2021  07:56 AM    <DIR>          TheLongDrive
+05/31/2022  10:37 AM    <DIR>          Visual Studio 2017
+03/30/2021  05:15 PM    <DIR>          Visual Studio 2019
+04/26/2022  03:12 PM            43,283 W.Morford Separation Agreement.docx
+05/12/2022  11:24 PM           432,307 W.Morford Separation Agreement.docx.pdf
+03/09/2021  06:45 PM            93,437 W2 2020.pdf
+05/07/2022  12:00 PM            96,966 W2.pdf
+06/10/2021  02:44 AM    <DIR>          Warhammer Battle March
+12/27/2021  10:24 PM    <DIR>          Wastelands-Interactive
+02/23/2021  10:20 PM         1,415,557 Wes Morford Birth Cert.pdf
+02/23/2021  11:16 PM           195,467 Wes Morford ID (1).pdf
+02/23/2021  11:53 PM           195,467 Wes Morford ID (2).pdf
+02/23/2021  11:54 PM           195,467 Wes Morford ID (3).pdf
+02/24/2021  01:17 AM           195,467 Wes Morford ID (4).pdf
+02/23/2021  10:20 PM           195,467 Wes Morford ID.pdf
+02/23/2021  01:30 PM            80,828 Wesley Morford Permit.pdf
+05/07/2022  11:38 AM            56,480 Wesley_April_2022_eStatement.pdf
+05/04/2022  11:45 PM    <DIR>          WindowsPowerShell
+              36 File(s)    695,432,135 bytes
+              69 Dir(s)  51,536,261,120 bytes free
+
+C:\Users\clerk\Documents>cd github
+
+C:\Users\clerk\Documents\GitHub>dir
+ Volume in drive C has no label.
+ Volume Serial Number is D469-235E
+
+ Directory of C:\Users\clerk\Documents\GitHub
+
+06/10/2022  10:39 PM    <DIR>          .
+06/10/2022  10:39 PM    <DIR>          ..
+05/10/2022  10:17 AM                31 contact form endpoint.txt
+05/21/2022  11:44 AM    <DIR>          HTML-and-CSS-Projects
+05/26/2022  12:46 AM    <DIR>          JavaScript-Projects
+06/07/2022  08:30 PM    <DIR>          Notes
+04/27/2022  11:30 AM    <DIR>          office_hours_python
+06/22/2022  11:32 PM    <DIR>          Python-Projects
+06/03/2022  06:53 PM    <DIR>          SQL
+04/27/2022  08:14 PM    <DIR>          Tech-Academy-Projects
+05/05/2022  01:08 PM    <DIR>          virtual_dr
+05/09/2022  09:05 PM                14 Wesley_Morford.txt
+05/25/2022  10:59 PM    <DIR>          WMorf.github.io
+               2 File(s)             45 bytes
+              11 Dir(s)  51,536,736,256 bytes free
+
+C:\Users\clerk\Documents\GitHub>cd python-projects
+
+C:\Users\clerk\Documents\GitHub\Python-Projects>dir
+ Volume in drive C has no label.
+ Volume Serial Number is D469-235E
+
+ Directory of C:\Users\clerk\Documents\GitHub\Python-Projects
+
+06/22/2022  11:32 PM    <DIR>          .
+06/22/2022  11:32 PM    <DIR>          ..
+06/18/2022  09:58 AM    <DIR>          Assignments
+06/18/2022  11:12 PM    <DIR>          Challenges
+06/22/2022  12:20 PM    <DIR>          Django
+06/20/2022  09:53 PM    <DIR>          File Transfer
+06/19/2022  01:04 PM    <DIR>          HTML Generator
+06/10/2022  10:38 PM    <DIR>          Nice_Mean_Game
+06/15/2022  11:11 PM    <DIR>          Phonebook_Project
+06/22/2022  11:32 PM    <DIR>          PyCharm
+06/22/2022  11:12 PM    <DIR>          PyProjects
+06/07/2022  10:35 PM               131 README.md
+06/19/2022  08:09 PM    <DIR>          Sample
+06/14/2022  10:53 PM               195 template.py
+06/18/2022  09:58 AM    <DIR>          Test Databases
+06/09/2022  01:36 PM    <DIR>          __pycache__
+               2 File(s)            326 bytes
+              14 Dir(s)  51,535,921,152 bytes free
+
+C:\Users\clerk\Documents\GitHub\Python-Projects>mkdir Dev
+
+C:\Users\clerk\Documents\GitHub\Python-Projects>cd dev
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev>virtualenv texhproject
+created virtual environment CPython3.10.4.final.0-64 in 825ms
+  creator CPython3Windows(dest=C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\texhproject, clear=False, no_vcs_ignore=False, global=False)
+  seeder FromAppData(download=False, pip=bundle, setuptools=bundle, wheel=bundle, via=copy, app_data_dir=C:\Users\clerk\AppData\Local\pypa\virtualenv)
+    added seed packages: pip==22.1.2, setuptools==62.3.4, wheel==0.37.1
+  activators BashActivator,BatchActivator,FishActivator,NushellActivator,PowerShellActivator,PythonActivator
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev>dir
+ Volume in drive C has no label.
+ Volume Serial Number is D469-235E
+
+ Directory of C:\Users\clerk\Documents\GitHub\Python-Projects\Dev
+
+06/23/2022  11:20 AM    <DIR>          .
+06/23/2022  11:20 AM    <DIR>          ..
+06/23/2022  11:20 AM    <DIR>          texhproject
+               0 File(s)              0 bytes
+               3 Dir(s)  51,521,191,936 bytes free
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev>virtualenv techproject
+created virtual environment CPython3.10.4.final.0-64 in 745ms
+  creator CPython3Windows(dest=C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject, clear=False, no_vcs_ignore=False, global=False)
+  seeder FromAppData(download=False, pip=bundle, setuptools=bundle, wheel=bundle, via=copy, app_data_dir=C:\Users\clerk\AppData\Local\pypa\virtualenv)
+    added seed packages: pip==22.1.2, setuptools==62.3.4, wheel==0.37.1
+  activators BashActivator,BatchActivator,FishActivator,NushellActivator,PowerShellActivator,PythonActivator
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev>cd techproject
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject>cd scripts
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\Scripts>activate
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\Scripts>cd ..
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject>pip install django
+Collecting django
+  Using cached Django-4.0.5-py3-none-any.whl (8.0 MB)
+Collecting sqlparse>=0.2.2
+  Using cached sqlparse-0.4.2-py3-none-any.whl (42 kB)
+Collecting asgiref<4,>=3.4.1
+  Using cached asgiref-3.5.2-py3-none-any.whl (22 kB)
+Collecting tzdata
+  Using cached tzdata-2022.1-py2.py3-none-any.whl (339 kB)
+Installing collected packages: tzdata, sqlparse, asgiref, django
+Successfully installed asgiref-3.5.2 django-4.0.5 sqlparse-0.4.2 tzdata-2022.1
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject>mkdir src
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject>cd src
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src>django-admin startproject mainapp
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src>cd mainapp
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>dir
+ Volume in drive C has no label.
+ Volume Serial Number is D469-235E
+
+ Directory of C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp
+
+06/23/2022  11:25 AM    <DIR>          .
+06/23/2022  11:25 AM    <DIR>          ..
+06/23/2022  11:25 AM    <DIR>          mainapp
+06/23/2022  11:25 AM               685 manage.py
+               1 File(s)            685 bytes
+               3 Dir(s)  51,477,364,736 bytes free
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>python manage.py runserver
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 18 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+June 23, 2022 - 11:26:14
+Django version 4.0.5, using settings 'mainapp.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+[23/Jun/2022 11:27:20] "GET / HTTP/1.1" 200 10697
+[23/Jun/2022 11:27:20] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[23/Jun/2022 11:27:20] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[23/Jun/2022 11:27:20] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[23/Jun/2022 11:27:20] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+Not Found: /favicon.ico
+[23/Jun/2022 11:27:20] "GET /favicon.ico HTTP/1.1" 404 2111
+[23/Jun/2022 11:27:36] "GET / HTTP/1.1" 200 10697
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>cd /
+
+(techproject) C:\>deactivate
+C:\>cd users
+
+C:\Users>cd clerk
+
+C:\Users\clerk>cd documents
+
+C:\Users\clerk\Documents>cd github
+
+C:\Users\clerk\Documents\GitHub>cd python-projects
+
+C:\Users\clerk\Documents\GitHub\Python-Projects>cd dev
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev>virtualenv Hello_World
+created virtual environment CPython3.10.4.final.0-64 in 764ms
+  creator CPython3Windows(dest=C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World, clear=False, no_vcs_ignore=False, global=False)
+  seeder FromAppData(download=False, pip=bundle, setuptools=bundle, wheel=bundle, via=copy, app_data_dir=C:\Users\clerk\AppData\Local\pypa\virtualenv)
+    added seed packages: pip==22.1.2, setuptools==62.3.4, wheel==0.37.1
+  activators BashActivator,BatchActivator,FishActivator,NushellActivator,PowerShellActivator,PythonActivator
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev>cd techproject
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject>cd scripts
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\Scripts>activate
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\Scripts>cd ..
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject>cd src/mainapp
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>python manage.py
+
+Type 'manage.py help <subcommand>' for help on a specific subcommand.
+
+Available subcommands:
+
+[auth]
+    changepassword
+    createsuperuser
+
+[contenttypes]
+    remove_stale_contenttypes
+
+[django]
+    check
+    compilemessages
+    createcachetable
+    dbshell
+    diffsettings
+    dumpdata
+    flush
+    inspectdb
+    loaddata
+    makemessages
+    makemigrations
+    migrate
+    sendtestemail
+    shell
+    showmigrations
+    sqlflush
+    sqlmigrate
+    sqlsequencereset
+    squashmigrations
+    startapp
+    startproject
+    test
+    testserver
+
+[sessions]
+    clearsessions
+
+[staticfiles]
+    collectstatic
+    findstatic
+    runserver
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>python manage.py runserver
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 18 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+June 23, 2022 - 11:34:59
+Django version 4.0.5, using settings 'mainapp.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+[23/Jun/2022 11:35:04] "GET / HTTP/1.1" 200 10697
+[23/Jun/2022 11:35:04] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[23/Jun/2022 12:11:46] "GET / HTTP/1.1" 200 10697
+[23/Jun/2022 12:11:46] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[23/Jun/2022 12:11:46] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[23/Jun/2022 12:11:46] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[23/Jun/2022 12:11:46] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[23/Jun/2022 12:11:52] "GET /admin HTTP/1.1" 301 0
+[23/Jun/2022 12:11:52] "GET /admin/ HTTP/1.1" 302 0
+[23/Jun/2022 12:11:53] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2215
+[23/Jun/2022 12:11:53] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2616
+[23/Jun/2022 12:11:53] "GET /static/admin/css/login.css HTTP/1.1" 200 954
+[23/Jun/2022 12:11:53] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3763
+[23/Jun/2022 12:11:53] "GET /static/admin/css/base.css HTTP/1.1" 200 19513
+[23/Jun/2022 12:11:53] "GET /static/admin/css/responsive.css HTTP/1.1" 200 18575
+^C
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>python manage.py migrate
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>python manage.py runserver
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 23, 2022 - 12:12:52
+Django version 4.0.5, using settings 'mainapp.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+[23/Jun/2022 12:13:08] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2215
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>python manage.py createsuperuser
+Username (leave blank to use 'clerk'): clerk
+Email address:
+Password:
+Password (again):
+Superuser created successfully.
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>python manage.py runserver
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 23, 2022 - 12:14:13
+Django version 4.0.5, using settings 'mainapp.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+[23/Jun/2022 12:14:29] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[23/Jun/2022 12:14:29] "GET /admin/ HTTP/1.1" 200 3327
+[23/Jun/2022 12:14:29] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 380
+[23/Jun/2022 12:14:29] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[23/Jun/2022 12:14:29] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>python manage.py starapp products
+Unknown command: 'starapp'. Did you mean startapp?
+Type 'manage.py help' for usage.
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>python manage.py startapp products
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>python manage.py runserver
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 23, 2022 - 12:16:08
+Django version 4.0.5, using settings 'mainapp.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>deactivate
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>cd ..
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src>cd ..
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject>cd ..
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev>cd HelloWorld
+The system cannot find the path specified.
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev>cd Hello_World
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World>activate
+'activate' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World>cd scripts
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\Scripts>activate
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\Scripts>pip install django
+Collecting django
+  Using cached Django-4.0.5-py3-none-any.whl (8.0 MB)
+Collecting asgiref<4,>=3.4.1
+  Using cached asgiref-3.5.2-py3-none-any.whl (22 kB)
+Collecting tzdata
+  Using cached tzdata-2022.1-py2.py3-none-any.whl (339 kB)
+Collecting sqlparse>=0.2.2
+  Using cached sqlparse-0.4.2-py3-none-any.whl (42 kB)
+Installing collected packages: tzdata, sqlparse, asgiref, django
+Successfully installed asgiref-3.5.2 django-4.0.5 sqlparse-0.4.2 tzdata-2022.1
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\Scripts>cd ..
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World>django-admin startproject mainapp
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World>python manage.py migrate
+C:\Users\clerk\AppData\Local\Programs\Python\Python310\python.exe: can't open file 'C:\\Users\\clerk\\Documents\\GitHub\\Python-Projects\\Dev\\Hello_World\\manage.py': [Errno 2] No such file or directory
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World>dir
+ Volume in drive C has no label.
+ Volume Serial Number is D469-235E
+
+ Directory of C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World
+
+06/23/2022  12:20 PM    <DIR>          .
+06/23/2022  12:20 PM    <DIR>          ..
+06/23/2022  11:32 AM                42 .gitignore
+06/23/2022  11:32 AM    <DIR>          Lib
+06/23/2022  12:20 PM    <DIR>          mainapp
+06/23/2022  11:32 AM               410 pyvenv.cfg
+06/23/2022  12:19 PM    <DIR>          Scripts
+               2 File(s)            452 bytes
+               5 Dir(s)  51,327,823,872 bytes free
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World>cd mainapp
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\mainapp>python manage.py migrate
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\mainapp>python manage.py createsuperuser
+Username (leave blank to use 'clerk'): clerk
+Email address:
+Password:
+Password (again):
+Superuser created successfully.
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\mainapp>cd ..
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World>python manage.py runserver
+C:\Users\clerk\AppData\Local\Programs\Python\Python310\python.exe: can't open file 'C:\\Users\\clerk\\Documents\\GitHub\\Python-Projects\\Dev\\Hello_World\\manage.py': [Errno 2] No such file or directory
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World>cd mainapp
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\mainapp>python manage.py runserver
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 23, 2022 - 12:23:03
+Django version 4.0.5, using settings 'mainapp.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+[23/Jun/2022 12:23:06] "GET / HTTP/1.1" 200 10697
+[23/Jun/2022 12:23:06] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[23/Jun/2022 12:23:06] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[23/Jun/2022 12:23:06] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[23/Jun/2022 12:23:06] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[23/Jun/2022 12:23:11] "GET /admin/ HTTP/1.1" 302 0
+[23/Jun/2022 12:23:11] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2215
+[23/Jun/2022 12:23:11] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2616
+[23/Jun/2022 12:23:11] "GET /static/admin/css/base.css HTTP/1.1" 200 19513
+[23/Jun/2022 12:23:11] "GET /static/admin/css/login.css HTTP/1.1" 200 954
+[23/Jun/2022 12:23:11] "GET /static/admin/css/responsive.css HTTP/1.1" 200 18575
+[23/Jun/2022 12:23:11] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3763
+[23/Jun/2022 12:23:12] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[23/Jun/2022 12:23:12] "GET /admin/ HTTP/1.1" 200 3327
+[23/Jun/2022 12:23:13] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 380
+[23/Jun/2022 12:23:13] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[23/Jun/2022 12:23:13] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\mainapp>deactivate
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\mainapp>cd ..
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World>cd ..
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev>cd techproject
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject>activate
+'activate' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject>cd scripts
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\Scripts>activate
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\Scripts>cd ..
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject>cd src
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src>cd mainapp
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>python manage.py runserver
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 23, 2022 - 12:42:30
+Django version 4.0.5, using settings 'mainapp.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+[23/Jun/2022 12:42:33] "GET /admin/ HTTP/1.1" 302 0
+[23/Jun/2022 12:42:33] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2215
+[23/Jun/2022 12:42:33] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[23/Jun/2022 12:42:33] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[23/Jun/2022 12:42:33] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[23/Jun/2022 12:42:33] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[23/Jun/2022 12:42:33] "GET /static/admin/css/login.css HTTP/1.1" 304 0
+[23/Jun/2022 12:42:33] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[23/Jun/2022 12:42:33] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[23/Jun/2022 12:42:33] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[23/Jun/2022 12:42:40] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[23/Jun/2022 12:42:40] "GET /admin/ HTTP/1.1" 200 3327
+[23/Jun/2022 12:42:40] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[23/Jun/2022 12:42:40] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[23/Jun/2022 12:42:40] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[23/Jun/2022 12:42:40] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp\mainapp\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 23, 2022 - 12:44:21
+Django version 4.0.5, using settings 'mainapp.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp\mainapp\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "C:\Users\clerk\AppData\Local\Programs\Python\Python310\lib\threading.py", line 1009, in _bootstrap_inner
+    self.run()
+  File "C:\Users\clerk\AppData\Local\Programs\Python\Python310\lib\threading.py", line 946, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\utils\autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\core\management\commands\runserver.py", line 125, in inner_run
+    autoreload.raise_last_exception()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\utils\autoreload.py", line 87, in raise_last_exception
+    raise _exception[1]
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\core\management\__init__.py", line 398, in execute
+    autoreload.check_errors(django.setup)()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\utils\autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\apps\registry.py", line 91, in populate
+    app_config = AppConfig.create(entry)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\apps\config.py", line 228, in create
+    import_module(entry)
+  File "C:\Users\clerk\AppData\Local\Programs\Python\Python310\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1047, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 981, in _sanity_check
+ValueError: Empty module name
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp\mainapp\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "C:\Users\clerk\AppData\Local\Programs\Python\Python310\lib\threading.py", line 1009, in _bootstrap_inner
+    self.run()
+  File "C:\Users\clerk\AppData\Local\Programs\Python\Python310\lib\threading.py", line 946, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\utils\autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\core\management\commands\runserver.py", line 125, in inner_run
+    autoreload.raise_last_exception()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\utils\autoreload.py", line 87, in raise_last_exception
+    raise _exception[1]
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\core\management\__init__.py", line 398, in execute
+    autoreload.check_errors(django.setup)()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\utils\autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\apps\registry.py", line 91, in populate
+    app_config = AppConfig.create(entry)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\apps\config.py", line 228, in create
+    import_module(entry)
+  File "C:\Users\clerk\AppData\Local\Programs\Python\Python310\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'Products'
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp\mainapp\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "C:\Users\clerk\AppData\Local\Programs\Python\Python310\lib\threading.py", line 1009, in _bootstrap_inner
+    self.run()
+  File "C:\Users\clerk\AppData\Local\Programs\Python\Python310\lib\threading.py", line 946, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\utils\autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\core\management\commands\runserver.py", line 125, in inner_run
+    autoreload.raise_last_exception()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\utils\autoreload.py", line 87, in raise_last_exception
+    raise _exception[1]
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\core\management\__init__.py", line 398, in execute
+    autoreload.check_errors(django.setup)()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\utils\autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\apps\registry.py", line 116, in populate
+    app_config.import_models()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\apps\config.py", line 304, in import_models
+    self.models_module = import_module(models_module_name)
+  File "C:\Users\clerk\AppData\Local\Programs\Python\Python310\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp\products\models.py", line 5, in <module>
+    class Product(models.Model):
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp\products\models.py", line 6, in Product
+    type = models.Charfield(max_length=60)
+AttributeError: module 'django.db.models' has no attribute 'Charfield'. Did you mean: 'CharField'?
+^C
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>python manage.py makemigrations
+Traceback (most recent call last):
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp\manage.py", line 22, in <module>
+    main()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp\manage.py", line 18, in main
+    execute_from_command_line(sys.argv)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\core\management\__init__.py", line 446, in execute_from_command_line
+    utility.execute()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\core\management\__init__.py", line 420, in execute
+    django.setup()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\apps\registry.py", line 116, in populate
+    app_config.import_models()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\apps\config.py", line 304, in import_models
+    self.models_module = import_module(models_module_name)
+  File "C:\Users\clerk\AppData\Local\Programs\Python\Python310\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp\products\models.py", line 5, in <module>
+    class Product(models.Model):
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp\products\models.py", line 6, in Product
+    type = models.Charfield(max_length=60)
+AttributeError: module 'django.db.models' has no attribute 'Charfield'. Did you mean: 'CharField'?
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>python manage.py makemigrations
+Migrations for 'products':
+  products\migrations\0001_initial.py
+    - Create model Product
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>python manage.py migrate
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, products, sessions
+Running migrations:
+  Applying products.0001_initial... OK
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>python manage.py runserver
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 23, 2022 - 12:47:03
+Django version 4.0.5, using settings 'mainapp.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+[23/Jun/2022 12:47:16] "GET /admin/ HTTP/1.1" 200 3994
+[23/Jun/2022 12:47:16] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[23/Jun/2022 12:47:16] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[23/Jun/2022 12:47:16] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[23/Jun/2022 12:47:16] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[23/Jun/2022 12:47:16] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[23/Jun/2022 12:47:16] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[23/Jun/2022 12:47:16] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[23/Jun/2022 12:47:16] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[23/Jun/2022 12:47:16] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[23/Jun/2022 12:47:16] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[23/Jun/2022 12:47:16] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[23/Jun/2022 12:47:21] "GET /admin/products/product/ HTTP/1.1" 200 5104
+[23/Jun/2022 12:47:21] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[23/Jun/2022 12:47:21] "GET /static/admin/js/core.js HTTP/1.1" 200 5698
+[23/Jun/2022 12:47:21] "GET /static/admin/js/urlify.js HTTP/1.1" 200 7902
+[23/Jun/2022 12:47:21] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[23/Jun/2022 12:47:21] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+[23/Jun/2022 12:47:21] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 5984
+[23/Jun/2022 12:47:21] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[23/Jun/2022 12:47:21] "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+[23/Jun/2022 12:47:21] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6932
+[23/Jun/2022 12:47:21] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 288580
+[23/Jun/2022 12:47:21] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[23/Jun/2022 12:47:37] "GET /admin/products/product/add/ HTTP/1.1" 200 7656
+[23/Jun/2022 12:47:37] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 492
+[23/Jun/2022 12:47:37] "GET /static/admin/css/forms.css HTTP/1.1" 200 8878
+[23/Jun/2022 12:47:37] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[23/Jun/2022 12:47:37] "GET /static/admin/css/widgets.css HTTP/1.1" 200 11097
+[23/Jun/2022 12:47:37] "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>deactivate
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>cd ..
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src>cd ..
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject>cd ..
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev>cd Hello_World
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World>cd scripts
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\Scripts>activate
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\Scripts>cd ..
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World>cd src
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src>django-admin startapp profiles
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src>python manage.py makemigrations
+C:\Users\clerk\AppData\Local\Programs\Python\Python310\python.exe: can't open file 'C:\\Users\\clerk\\Documents\\GitHub\\Python-Projects\\Dev\\Hello_World\\src\\manage.py': [Errno 2] No such file or directory
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src>cd mainapp
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp>python manage.py makemigrations
+Traceback (most recent call last):
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp\manage.py", line 22, in <module>
+    main()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp\manage.py", line 18, in main
+    execute_from_command_line(sys.argv)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\core\management\__init__.py", line 446, in execute_from_command_line
+    utility.execute()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\core\management\__init__.py", line 420, in execute
+    django.setup()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\apps\registry.py", line 91, in populate
+    app_config = AppConfig.create(entry)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\apps\config.py", line 228, in create
+    import_module(entry)
+  File "C:\Users\clerk\AppData\Local\Programs\Python\Python310\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'profiles'
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp>python manage.py makemigrations
+Traceback (most recent call last):
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp\manage.py", line 22, in <module>
+    main()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp\manage.py", line 18, in main
+    execute_from_command_line(sys.argv)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\core\management\__init__.py", line 446, in execute_from_command_line
+    utility.execute()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\core\management\__init__.py", line 420, in execute
+    django.setup()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\apps\registry.py", line 91, in populate
+    app_config = AppConfig.create(entry)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\apps\config.py", line 228, in create
+    import_module(entry)
+  File "C:\Users\clerk\AppData\Local\Programs\Python\Python310\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'profiles'
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp>python manage.py makemigrations
+Traceback (most recent call last):
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp\manage.py", line 22, in <module>
+    main()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp\manage.py", line 18, in main
+    execute_from_command_line(sys.argv)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\core\management\__init__.py", line 446, in execute_from_command_line
+    utility.execute()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\core\management\__init__.py", line 420, in execute
+    django.setup()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\apps\registry.py", line 91, in populate
+    app_config = AppConfig.create(entry)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\apps\config.py", line 228, in create
+    import_module(entry)
+  File "C:\Users\clerk\AppData\Local\Programs\Python\Python310\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'profiles'
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp>python manage.py makemigrations
+Traceback (most recent call last):
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp\manage.py", line 22, in <module>
+    main()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp\manage.py", line 18, in main
+    execute_from_command_line(sys.argv)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\core\management\__init__.py", line 446, in execute_from_command_line
+    utility.execute()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\core\management\__init__.py", line 420, in execute
+    django.setup()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\apps\registry.py", line 91, in populate
+    app_config = AppConfig.create(entry)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\apps\config.py", line 228, in create
+    import_module(entry)
+  File "C:\Users\clerk\AppData\Local\Programs\Python\Python310\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'profiles'
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp>python manage.py makemigrations
+Traceback (most recent call last):
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp\manage.py", line 22, in <module>
+    main()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp\manage.py", line 18, in main
+    execute_from_command_line(sys.argv)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\core\management\__init__.py", line 446, in execute_from_command_line
+    utility.execute()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\core\management\__init__.py", line 420, in execute
+    django.setup()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\apps\registry.py", line 91, in populate
+    app_config = AppConfig.create(entry)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\apps\config.py", line 228, in create
+    import_module(entry)
+  File "C:\Users\clerk\AppData\Local\Programs\Python\Python310\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'profiles'
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp>python manage.py makemigrations
+Traceback (most recent call last):
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp\manage.py", line 22, in <module>
+    main()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp\manage.py", line 18, in main
+    execute_from_command_line(sys.argv)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\core\management\__init__.py", line 446, in execute_from_command_line
+    utility.execute()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\core\management\__init__.py", line 420, in execute
+    django.setup()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\apps\registry.py", line 91, in populate
+    app_config = AppConfig.create(entry)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\apps\config.py", line 228, in create
+    import_module(entry)
+  File "C:\Users\clerk\AppData\Local\Programs\Python\Python310\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'profiles'
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp>python manage.py makemigrations
+Traceback (most recent call last):
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp\manage.py", line 22, in <module>
+    main()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp\manage.py", line 18, in main
+    execute_from_command_line(sys.argv)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\core\management\__init__.py", line 446, in execute_from_command_line
+    utility.execute()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\core\management\__init__.py", line 420, in execute
+    django.setup()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\apps\registry.py", line 91, in populate
+    app_config = AppConfig.create(entry)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\apps\config.py", line 228, in create
+    import_module(entry)
+  File "C:\Users\clerk\AppData\Local\Programs\Python\Python310\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'profiles'
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp>cd ..
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src>django-admin startapp profiles
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src>cd mainapp
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp>python manage.py makemigrations
+Traceback (most recent call last):
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp\manage.py", line 22, in <module>
+    main()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp\manage.py", line 18, in main
+    execute_from_command_line(sys.argv)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\core\management\__init__.py", line 446, in execute_from_command_line
+    utility.execute()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\core\management\__init__.py", line 420, in execute
+    django.setup()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\apps\registry.py", line 91, in populate
+    app_config = AppConfig.create(entry)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\apps\config.py", line 228, in create
+    import_module(entry)
+  File "C:\Users\clerk\AppData\Local\Programs\Python\Python310\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'profiles'
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp>deactivate
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp>cd scripts
+The system cannot find the path specified.
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp>cd ..
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src>cd scripts
+The system cannot find the path specified.
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src>dir
+ Volume in drive C has no label.
+ Volume Serial Number is D469-235E
+
+ Directory of C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src
+
+06/23/2022  10:51 PM    <DIR>          .
+06/23/2022  10:51 PM    <DIR>          ..
+06/23/2022  12:23 PM    <DIR>          mainapp
+06/23/2022  10:53 PM    <DIR>          profiles
+               0 File(s)              0 bytes
+               4 Dir(s)  51,025,903,616 bytes free
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src>cd ..
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World>cd scripts
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\Scripts>activate
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\Scripts>cd ..
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World>cd src'
+The system cannot find the path specified.
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World>cd src
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src>cd mainapp
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp>python manage.py makemigrations
+Traceback (most recent call last):
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp\manage.py", line 22, in <module>
+    main()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp\manage.py", line 18, in main
+    execute_from_command_line(sys.argv)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\core\management\__init__.py", line 446, in execute_from_command_line
+    utility.execute()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\core\management\__init__.py", line 420, in execute
+    django.setup()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\apps\registry.py", line 91, in populate
+    app_config = AppConfig.create(entry)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\lib\site-packages\django\apps\config.py", line 228, in create
+    import_module(entry)
+  File "C:\Users\clerk\AppData\Local\Programs\Python\Python310\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'profiles'
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp>deactivate
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp>cd ..
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src>cd ..
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World>cd ..
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev>django-admin startproject Hello-World
+CommandError: 'Hello-World' is not a valid project name. Please make sure the name is a valid identifier.
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev>django-admin startproject Hello+World
+CommandError: 'Hello+World' is not a valid project name. Please make sure the name is a valid identifier.
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev>django-admin startproject HelloWorld
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev>cd HelloWorld
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\HelloWorld>cd scripts
+The system cannot find the path specified.
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\HelloWorld>dir
+ Volume in drive C has no label.
+ Volume Serial Number is D469-235E
+
+ Directory of C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\HelloWorld
+
+06/23/2022  10:57 PM    <DIR>          .
+06/23/2022  10:57 PM    <DIR>          ..
+06/23/2022  10:57 PM    <DIR>          HelloWorld
+06/23/2022  10:57 PM               688 manage.py
+               1 File(s)            688 bytes
+               3 Dir(s)  51,029,704,704 bytes free
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\HelloWorld>cd ..
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev>virtualenv Hello_Test
+created virtual environment CPython3.10.4.final.0-64 in 1182ms
+  creator CPython3Windows(dest=C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test, clear=False, no_vcs_ignore=False, global=False)
+  seeder FromAppData(download=False, pip=bundle, setuptools=bundle, wheel=bundle, via=copy, app_data_dir=C:\Users\clerk\AppData\Local\pypa\virtualenv)
+    added seed packages: pip==22.1.2, setuptools==62.3.4, wheel==0.37.1
+  activators BashActivator,BatchActivator,FishActivator,NushellActivator,PowerShellActivator,PythonActivator
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev>cd Hello_test
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test>mkdir src
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test>cd scripts
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\Scripts>activate
+
+(Hello_Test) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\Scripts>pip install django
+Collecting django
+  Using cached Django-4.0.5-py3-none-any.whl (8.0 MB)
+Collecting tzdata
+  Using cached tzdata-2022.1-py2.py3-none-any.whl (339 kB)
+Collecting sqlparse>=0.2.2
+  Using cached sqlparse-0.4.2-py3-none-any.whl (42 kB)
+Collecting asgiref<4,>=3.4.1
+  Using cached asgiref-3.5.2-py3-none-any.whl (22 kB)
+Installing collected packages: tzdata, sqlparse, asgiref, django
+Successfully installed asgiref-3.5.2 django-4.0.5 sqlparse-0.4.2 tzdata-2022.1
+
+(Hello_Test) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\Scripts>ccd ..
+'ccd' is not recognized as an internal or external command,
+operable program or batch file.
+
+(Hello_Test) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\Scripts>cd ..
+
+(Hello_Test) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test>cd src
+
+(Hello_Test) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\src>django-admin startproject mainapp
+
+(Hello_Test) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\src>django-admin startapp profiles
+
+(Hello_Test) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\src>cd mainapp
+
+(Hello_Test) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\src\mainapp>python manage.py makemigrations
+Traceback (most recent call last):
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\src\mainapp\manage.py", line 22, in <module>
+    main()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\src\mainapp\manage.py", line 18, in main
+    execute_from_command_line(sys.argv)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\lib\site-packages\django\core\management\__init__.py", line 446, in execute_from_command_line
+    utility.execute()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\lib\site-packages\django\core\management\__init__.py", line 420, in execute
+    django.setup()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\lib\site-packages\django\__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\lib\site-packages\django\apps\registry.py", line 91, in populate
+    app_config = AppConfig.create(entry)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\lib\site-packages\django\apps\config.py", line 228, in create
+    import_module(entry)
+  File "C:\Users\clerk\AppData\Local\Programs\Python\Python310\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'profiles'
+
+(Hello_Test) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\src\mainapp>deactivate
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\src\mainapp>cd ..
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\src>cd ..
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test>cd ..
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev>cd Hello_Test
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test>activate
+'activate' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test>cd scripts
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\Scripts>activate
+
+(Hello_Test) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\Scripts>cd ..
+
+(Hello_Test) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test>cd mainapp
+The system cannot find the path specified.
+
+(Hello_Test) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test>dir
+ Volume in drive C has no label.
+ Volume Serial Number is D469-235E
+
+ Directory of C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test
+
+06/23/2022  11:00 PM    <DIR>          .
+06/23/2022  11:00 PM    <DIR>          ..
+06/23/2022  11:00 PM                42 .gitignore
+06/23/2022  11:00 PM    <DIR>          Lib
+06/23/2022  11:00 PM               410 pyvenv.cfg
+06/23/2022  11:01 PM    <DIR>          Scripts
+06/23/2022  11:05 PM    <DIR>          src
+               2 File(s)            452 bytes
+               5 Dir(s)  50,961,596,416 bytes free
+
+(Hello_Test) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test>cd src
+
+(Hello_Test) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\src>cd mainapp
+
+(Hello_Test) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\src\mainapp>python manage.py makemigrations
+Traceback (most recent call last):
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\src\mainapp\manage.py", line 22, in <module>
+    main()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\src\mainapp\manage.py", line 18, in main
+    execute_from_command_line(sys.argv)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\lib\site-packages\django\core\management\__init__.py", line 446, in execute_from_command_line
+    utility.execute()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\lib\site-packages\django\core\management\__init__.py", line 420, in execute
+    django.setup()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\lib\site-packages\django\__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\lib\site-packages\django\apps\registry.py", line 91, in populate
+    app_config = AppConfig.create(entry)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\lib\site-packages\django\apps\config.py", line 228, in create
+    import_module(entry)
+  File "C:\Users\clerk\AppData\Local\Programs\Python\Python310\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'ourprofile'
+
+(Hello_Test) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\src\mainapp>python manage.py runserver
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "C:\Users\clerk\AppData\Local\Programs\Python\Python310\lib\threading.py", line 1009, in _bootstrap_inner
+    self.run()
+  File "C:\Users\clerk\AppData\Local\Programs\Python\Python310\lib\threading.py", line 946, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\lib\site-packages\django\utils\autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\lib\site-packages\django\core\management\commands\runserver.py", line 125, in inner_run
+    autoreload.raise_last_exception()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\lib\site-packages\django\utils\autoreload.py", line 87, in raise_last_exception
+    raise _exception[1]
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\lib\site-packages\django\core\management\__init__.py", line 398, in execute
+    autoreload.check_errors(django.setup)()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\lib\site-packages\django\utils\autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\lib\site-packages\django\__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\lib\site-packages\django\apps\registry.py", line 91, in populate
+    app_config = AppConfig.create(entry)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\lib\site-packages\django\apps\config.py", line 228, in create
+    import_module(entry)
+  File "C:\Users\clerk\AppData\Local\Programs\Python\Python310\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'ourprofile'
+
+(Hello_Test) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\src\mainapp>
+
+(Hello_Test) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\src\mainapp>dactivate
+'dactivate' is not recognized as an internal or external command,
+operable program or batch file.
+
+(Hello_Test) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\src\mainapp>deactivate
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\src\mainapp>cd ..
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test\src>cd ..
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_Test>cd ..
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev>cd techproject
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject>activate
+'activate' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject>cd scripts
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\Scripts>activate
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\Scripts>cd mainapp
+The system cannot find the path specified.
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\Scripts>cd src
+The system cannot find the path specified.
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\Scripts>cd mainapp
+The system cannot find the path specified.
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\Scripts>cd ..
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject>cd src
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src>cd mainapp
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>python manage.py runserver
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 23, 2022 - 23:17:07
+Django version 4.0.5, using settings 'mainapp.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>deactivate
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>cd ..
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src>cd ..
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject>cd ..
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev>cd Hello_World
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World>cd scripts
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\Scripts>activate
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\Scripts> cd ..
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World>cd src
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src>cd mainapp
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp>python manage.py makemigrations
+Migrations for 'profiles':
+  profiles\migrations\0001_initial.py
+    - Create model Profile
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp>python manage.py migrate
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, profiles, sessions
+Running migrations:
+  Applying profiles.0001_initial... OK
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp>python manage.py runserver
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 23, 2022 - 23:23:48
+Django version 4.0.5, using settings 'mainapp.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+[23/Jun/2022 23:24:04] "GET /admin/products/product/add/ HTTP/1.1" 302 0
+[23/Jun/2022 23:24:04] "GET /admin/login/?next=/admin/products/product/add/ HTTP/1.1" 200 2257
+[23/Jun/2022 23:24:05] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[23/Jun/2022 23:24:05] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[23/Jun/2022 23:24:05] "GET /static/admin/css/login.css HTTP/1.1" 304 0
+[23/Jun/2022 23:24:05] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[23/Jun/2022 23:24:05] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[23/Jun/2022 23:24:05] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[23/Jun/2022 23:24:05] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[23/Jun/2022 23:24:05] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[23/Jun/2022 23:24:06] "POST /admin/login/?next=/admin/products/product/add/ HTTP/1.1" 302 0
+Not Found: /admin/products/product/add/
+[23/Jun/2022 23:24:06] "GET /admin/products/product/add/ HTTP/1.1" 404 4538
+Not Found: /admin/products/product/add/
+[23/Jun/2022 23:24:08] "GET /admin/products/product/add/ HTTP/1.1" 404 4538
+[23/Jun/2022 23:24:09] "GET /admin/login/?next=/admin/products/product/add/ HTTP/1.1" 302 0
+[23/Jun/2022 23:24:09] "GET /admin/ HTTP/1.1" 200 3994
+[23/Jun/2022 23:24:09] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[23/Jun/2022 23:24:12] "GET /admin/profiles/profile/ HTTP/1.1" 200 5104
+[23/Jun/2022 23:24:12] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[23/Jun/2022 23:24:12] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6932
+[23/Jun/2022 23:24:12] "GET /static/admin/js/urlify.js HTTP/1.1" 200 7902
+[23/Jun/2022 23:24:12] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[23/Jun/2022 23:24:12] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[23/Jun/2022 23:24:12] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 5984
+[23/Jun/2022 23:24:12] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 288580
+[23/Jun/2022 23:24:12] "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+[23/Jun/2022 23:24:12] "GET /static/admin/js/core.js HTTP/1.1" 200 5698
+[23/Jun/2022 23:24:12] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+[23/Jun/2022 23:24:12] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[23/Jun/2022 23:24:12] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[23/Jun/2022 23:24:14] "GET /admin/profiles/profile/add/ HTTP/1.1" 200 7161
+[23/Jun/2022 23:24:14] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 492
+[23/Jun/2022 23:24:14] "GET /static/admin/css/forms.css HTTP/1.1" 200 8878
+[23/Jun/2022 23:24:14] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[23/Jun/2022 23:24:14] "GET /static/admin/css/widgets.css HTTP/1.1" 200 11097
+[23/Jun/2022 23:24:14] "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp>
+
+(Hello_World) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp>deactivate
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src\mainapp>cd ..
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World\src>cd ..
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\Hello_World>cd ..
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev>cd techproject
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject>cd scripts
+
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\Scripts>activate
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\Scripts>cd ..
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject>cd src
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src>cd mainapp
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>python manage.py runserver
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 23, 2022 - 23:26:17
+Django version 4.0.5, using settings 'mainapp.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+[23/Jun/2022 23:26:22] "GET /admin/profiles/profile/add/ HTTP/1.1" 302 0
+[23/Jun/2022 23:26:22] "GET /admin/login/?next=/admin/profiles/profile/add/ HTTP/1.1" 200 2257
+[23/Jun/2022 23:26:23] "POST /admin/login/?next=/admin/profiles/profile/add/ HTTP/1.1" 302 0
+Not Found: /admin/profiles/profile/add/
+[23/Jun/2022 23:26:23] "GET /admin/profiles/profile/add/ HTTP/1.1" 404 4538
+Not Found: /admin/profiles/profile/add/
+[23/Jun/2022 23:26:24] "GET /admin/profiles/profile/add/ HTTP/1.1" 404 4538
+Not Found: /admin/profiles/profile/add/
+[23/Jun/2022 23:26:26] "GET /admin/profiles/profile/add/ HTTP/1.1" 404 4538
+[23/Jun/2022 23:26:27] "GET /admin/login/?next=/admin/profiles/profile/add/ HTTP/1.1" 302 0
+[23/Jun/2022 23:26:27] "GET /admin/ HTTP/1.1" 200 3994
+[23/Jun/2022 23:26:28] "GET /admin/products/product/ HTTP/1.1" 200 5104
+[23/Jun/2022 23:26:28] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[23/Jun/2022 23:26:30] "GET /admin/products/product/add/ HTTP/1.1" 200 7656
+[23/Jun/2022 23:26:30] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[23/Jun/2022 23:26:57] "POST /admin/products/product/add/ HTTP/1.1" 302 0
+[23/Jun/2022 23:26:57] "GET /admin/products/product/ HTTP/1.1" 200 6481
+[23/Jun/2022 23:26:57] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[23/Jun/2022 23:26:57] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp\products\models.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "C:\Users\clerk\AppData\Local\Programs\Python\Python310\lib\threading.py", line 1009, in _bootstrap_inner
+    self.run()
+  File "C:\Users\clerk\AppData\Local\Programs\Python\Python310\lib\threading.py", line 946, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\utils\autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\core\management\commands\runserver.py", line 125, in inner_run
+    autoreload.raise_last_exception()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\utils\autoreload.py", line 87, in raise_last_exception
+    raise _exception[1]
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\core\management\__init__.py", line 398, in execute
+    autoreload.check_errors(django.setup)()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\utils\autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\apps\registry.py", line 116, in populate
+    app_config.import_models()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\apps\config.py", line 304, in import_models
+    self.models_module = import_module(models_module_name)
+  File "C:\Users\clerk\AppData\Local\Programs\Python\Python310\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp\products\models.py", line 14
+    def __str__(selfself):
+                          ^
+IndentationError: expected an indented block after function definition on line 14
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp\products\models.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "C:\Users\clerk\AppData\Local\Programs\Python\Python310\lib\threading.py", line 1009, in _bootstrap_inner
+    self.run()
+  File "C:\Users\clerk\AppData\Local\Programs\Python\Python310\lib\threading.py", line 946, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\utils\autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\core\management\commands\runserver.py", line 125, in inner_run
+    autoreload.raise_last_exception()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\utils\autoreload.py", line 87, in raise_last_exception
+    raise _exception[1]
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\core\management\__init__.py", line 398, in execute
+    autoreload.check_errors(django.setup)()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\utils\autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\apps\registry.py", line 116, in populate
+    app_config.import_models()
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\lib\site-packages\django\apps\config.py", line 304, in import_models
+    self.models_module = import_module(models_module_name)
+  File "C:\Users\clerk\AppData\Local\Programs\Python\Python310\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp\products\models.py", line 15
+
+    ^
+IndentationError: expected an indented block after function definition on line 14
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp\products\models.py changed, reloading.
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 23, 2022 - 23:28:20
+Django version 4.0.5, using settings 'mainapp.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp\products\models.py changed, reloading.
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 23, 2022 - 23:28:44
+Django version 4.0.5, using settings 'mainapp.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>python manage.py makemigrations
+No changes detected
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>python manage.py makemigrations
+No changes detected
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>python manage.py migrate
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, products, sessions
+Running migrations:
+  No migrations to apply.
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>python manage.py runserver
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 23, 2022 - 23:29:55
+Django version 4.0.5, using settings 'mainapp.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+[23/Jun/2022 23:30:00] "GET /admin/products/product/ HTTP/1.1" 200 6254
+[23/Jun/2022 23:30:00] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[23/Jun/2022 23:30:31] "GET /admin/products/product/1/change/ HTTP/1.1" 200 7947
+[23/Jun/2022 23:30:31] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[23/Jun/2022 23:30:32] "GET /admin/products/product/1/delete/ HTTP/1.1" 200 5064
+[23/Jun/2022 23:30:32] "GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+[23/Jun/2022 23:30:33] "POST /admin/products/product/1/delete/ HTTP/1.1" 302 0
+[23/Jun/2022 23:30:33] "GET /admin/products/product/ HTTP/1.1" 200 5259
+[23/Jun/2022 23:30:33] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>python manage.py makemigrations
+Migrations for 'products':
+  products\migrations\0002_alter_product_type.py
+    - Alter field type on product
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>python manage.py migrate
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, products, sessions
+Running migrations:
+  Applying products.0002_alter_product_type... OK
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>python manage.py runserver
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 23, 2022 - 23:34:39
+Django version 4.0.5, using settings 'mainapp.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+[23/Jun/2022 23:34:47] "GET /admin/products/product/ HTTP/1.1" 200 5104
+[23/Jun/2022 23:34:47] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[23/Jun/2022 23:34:49] "GET /admin/products/product/add/ HTTP/1.1" 200 7847
+[23/Jun/2022 23:34:49] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+
+(techproject) C:\Users\clerk\Documents\GitHub\Python-Projects\Dev\techproject\src\mainapp>M
