@@ -8,7 +8,7 @@ Here is where I will post projects using the Python programming language during 
 
 [Django Checkbook](https://github.com/WMorf/Python-Projects/tree/main/Django_Checkbook)
 
-[HTML Generator](https://github.com/WMorf/Pythonct-Projects/tree/main/HTML%20Generator)
+[HTML Generator](https://github.com/WMorf/Python-Projects/tree/main/HTML%20Generator)
 
 [Nice/Mean Game](https://github.com/WMorf/Python-Projects/tree/main/Nice_Mean_Game)
 
